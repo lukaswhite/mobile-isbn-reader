@@ -53,3 +53,6 @@ ionic run ios
 ```
 
 > The application uses a barcode reader, so obviously you need a real device to run it.
+
+
+Application icon by [Sergei Kokota](https://www.iconfinder.com/Zerg) and licensed under [Creative Commons Attribution 2.5 generic](http://creativecommons.org/licenses/by/2.5/).
