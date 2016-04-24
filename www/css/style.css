@@ -1,0 +1,32 @@
+/* Empty. Add your own CSS if you like */
+.loading {
+	text-align: center;
+}
+
+.book {
+
+}
+
+.book .isbn {
+	text-align: center;
+	font-size: 1.5em;
+}
+
+.book .rating {
+	padding: 20px;
+	text-align: center;
+}
+
+.book .rating .value {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;	
+	border: solid 10px #FFBC00;
+	font-size: 3em;
+	line-height: 180px;
+	margin: 0 auto;
+}
+
+.book .rating .number {
+	margin-top: 20px;
+}
